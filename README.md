@@ -13,7 +13,7 @@ module load gcc/5.4.0
 
 Errors:
 NO BUGS
-Note: 1) if No heap memory not available may give you memory related error
+Note: 1) if heap memory not available may give you memory related error
       2) if your using gcc version less than 4.9, program will give you pointer assigment related warning
 
 For compiling files use following command:
