@@ -17,7 +17,7 @@ Note: 1) if heap memory not available may give you memory related error
       2) if your using gcc version less than 4.9, program will give you pointer assigment related warning
 
 For compiling files use following command:
-gcc henc4514.c -o henc4514
+gcc henc4514.c -o henc4514 
 gcc hdec4514.c -o hdec4514
 
 To run file use following command:
